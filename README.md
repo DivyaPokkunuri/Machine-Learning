@@ -1,2 +1,2 @@
 # Machine-Learning
-Prediction using Unsupervised ML  (Level - Beginner) 
+Prediction using Unsupervised / Supervised ML  (Level - Beginner) 
